@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "diffEditor.codeLens": true,
+    "workbench.settings.openDefaultSettings": true,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true
+}

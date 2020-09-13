@@ -1,0 +1,24 @@
+[0911/115301.485:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/120301.486:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/120301.486:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/120801.584:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/122301.621:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/123801.626:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/125301.634:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/130801.640:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/132301.949:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/133801.950:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/135301.952:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/152708.854:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/154208.856:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/155708.898:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/161208.901:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/162708.914:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/164208.921:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/165708.922:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/171208.933:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/172708.939:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/174144.753:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0911/174144.957:ERROR:exception_snapshot_win.cc(99)] thread ID 6456 not found in process
+[0912/005754.627:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0913/022845.607:ERROR:crash_report_database_win.cc(428)] unexpected header
